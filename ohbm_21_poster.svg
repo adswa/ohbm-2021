@@ -640,10 +640,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.51445126"
-     inkscape:cx="1728.6422"
-     inkscape:cy="179.87934"
+     inkscape:cx="2705.8707"
+     inkscape:cy="2408.7122"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer4"
      inkscape:document-rotation="0"
      showgrid="false"
      units="cm"
@@ -686,15 +686,15 @@
        transform="translate(0,-43.391687)">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;filter:url(#filter10550)"
-         x="91.196899"
+         style="font-style:normal;font-weight:normal;font-size:19.7556px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;filter:url(#filter10550)"
+         x="92.255234"
          y="264.66992"
          id="text5833"><tspan
            sodipodi:role="line"
            id="tspan5831"
-           x="91.196899"
+           x="92.255234"
            y="264.66992"
-           style="font-weight:bold;font-size:16.9333px;stroke-width:0.264583">INTRODUCTION</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:'Quicksand Medium';-inkscape-font-specification:'Quicksand Medium, Bold';stroke-width:0.264583">INTRODUCTION</tspan></text>
       <rect
          style="fill:#003d66;fill-opacity:1;stroke:none;stroke-width:0.972;stroke-miterlimit:4;stroke-dasharray:7.776, 0.972;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter10550)"
          id="rect5835"
@@ -838,45 +838,41 @@
            x="-115.87242"
            y="0"><tspan
              x="78.556641"
-             y="296.13119"><tspan
-               dx="0 0 0 0 0 0 0 0 0.5917027 0 0 0.5917027 0 0 0.5917027 0 0 0 0 0 0 0 0 0 0 0 0.59170651 0 0 0 0 0 0 0 0.59170651 0 0 0 0 0.59169888 0 0 0 0 0 0 0 0 0.59171414 0 0 0 0.59169888 0 0 0 0 0 0 0.59169888 0 0 0.59171414"
-               style="text-align:justify;text-anchor:start">Science is an incremental process that produces and builds up on </tspan></tspan><tspan
+             y="296.41506"><tspan
+               dx="0 0 0 0 0 0 0 0 0.65316522 0 0 0.65316713 0 0 0.65316331 0 0 0 0 0 0 0 0 0 0 0 0.65316331 0 0 0 0 0 0 0 0.65316331 0 0 0 0 0.65316331 0 0 0 0 0 0 0 0 0.65317094 0 0 0 0.65317094 0 0 0 0 0 0 0.65315568 0 0 0.65315568 0 0 0.65317094"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:justify;text-anchor:start">Science is an incremental process that produces and builds up on more </tspan></tspan><tspan
              x="78.556641"
-             y="304.95065"><tspan
-               dx="0 0 0 0 0 0.069083452 0 0 0 0 0.069081545 0 0 0 0 0 0 0 0.069081545 0 0 0 0 0 0 0 0 0 0 0.06908536 0 0 0 0 0 0.06907773 0 0 0 0 0 0.069070101 0 0 0 0 0 0 0 0 0.06908536 0 0 0.06908536 0 0 0 0 0 0.06908536 0 0 0.06908536"
-               style="text-align:justify;text-anchor:start">more than journal articles¹. Code, data, results, or tools of previous </tspan></tspan><tspan
+             y="305.5184"><tspan
+               dx="0 0 0 0 0 0.66471803 0 0 0 0 0 0 0 0.66471803 0 0 0 0 0 0 0 0 0 0 0.66472185 0 0 0 0 0 0.66472185 0 0 0 0 0 0.66472185 0 0 0 0 0 0 0 0 0.66472185 0 0 0.66472185 0 0 0 0 0 0.66472185 0 0 0.66472185 0 0 0 0 0 0 0 0 0.66472185 0 0 0 0 0 0 0 0 0.66472185"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:justify;text-anchor:start">than journal articles¹. Code, data, results, or tools of previous finished or </tspan></tspan><tspan
              x="78.556641"
-             y="313.7701"><tspan
-               dx="0 0 0 0 0 0 0 0 0 4.4700251 0 0 4.4700251 0 0 0 0 0 0 0 0 0 0 4.4700251"
-               style="text-align:justify;text-anchor:start">finished or unfinished projects</tspan><tspan
-               dx="0 4.4700251 0 0 0 0 0 0 0 0 0 4.4700327"
-               style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic'"> (research outputs)</tspan><tspan
-               dx="0 4.4700251 0 0 0 0 4.4700251"
-               style="text-align:justify;text-anchor:start"> fuel new </tspan></tspan><tspan
-             x="78.556641"
-             y="322.58956"><tspan
-               dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 8.9018335 8.9018297 8.9018335 8.9018335 8.9018335 8.9018335 8.9018335 8.9018259 8.9018335 8.9018335 8.9018335 8.9018335 8.9018335 8.9018335 8.9018335 8.9018335 8.9018335"
-               style="text-align:justify;text-anchor:start">undertakings.                 
+             y="314.62173"><tspan
+               dx="0 0 0 0 0 0 0 0 0 0 0 0.31116045"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:justify;text-anchor:start">unfinished projects</tspan><tspan
+               dx="0 0.31116045 0 0 0 0 0 0 0 0 0 0.31116426"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand"> (research outputs)</tspan><tspan
+               dx="0 0.31116045 0 0 0 0 0.31116045 0 0 0 0.31115282 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3111757 0.31115282 0.31116807 0.31115282 0.31116807 0.31115282 0.31116807 0.31115282 0.31116807 0.31115282 0.31116807 0.31115282 0.31116807 0.31115282 0.31116807 0.31116807 0.31116045"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:justify;text-anchor:start"> fuel new undertakings.                 
 </tspan></tspan><tspan
              x="78.556641"
-             y="331.40902"><tspan
-               style="text-align:justify;text-anchor:start">
+             y="323.72506"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:justify;text-anchor:start">
 </tspan></tspan><tspan
              x="78.556641"
-             y="340.22848"><tspan
-               dx="0 0 0 0 0 0 0 0 3.3397477 0 0 0 0 0 0 0 0 3.3397534 0 0 0 0 0 0 0 3.3397458 0 0 0 0 0 0 3.3397458 0 0 0 3.3397458 0 0 0 0 0 0 0 0 0 0 0 0 0 3.3397458"
-               style="text-align:justify;text-anchor:start">Reusing research objects allows for reproduction, verification, </tspan></tspan><tspan
+             y="332.8284"><tspan
+               dx="0 0 0 0 0 0 0 0 0.17315614 0 0 0 0 0 0 0 0 0.17315614 0 0 0 0 0 0 0 0.17315996 0 0 0 0 0 0 0.17315233 0 0 0 0.17315233 0 0 0 0 0 0 0 0 0 0 0 0 0 0.17315996 0 0 0 0 0 0 0 0 0 0 0 0 0 0.17315996 0 0 0 0 0 0 0 0 0.17315996"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:justify;text-anchor:start">Reusing research objects allows for reproduction, verification, building up </tspan></tspan><tspan
              x="78.556641"
-             y="349.04794"><tspan
-               dx="0 0 0 0 0 0 0 0 0 0.26678967 0 0 0.26678967 0 0 0 0 0.26678967 0 0 0 0.26678586 0 0 0 0 0 0 0 0 0 0.26678586 0 0 0 0 0 0 0 0 0.26677823 0 0 0 0 0 0.26679349 0 0 0 0 0 0 0 0 0.26679349"
-               style="text-align:justify;text-anchor:start">building up upon and extending existing work, evidence synthesis, </tspan></tspan><tspan
+             y="341.93173"><tspan
+               dx="0 0 0 0 0 1.5066465 0 0 0 1.5066446 0 0 0 0 0 0 0 0 0 1.5066408 0 0 0 0 0 0 0 0 1.5066484 0 0 0 0 0 1.5066484 0 0 0 0 0 0 0 0 1.5066408 0 0 0 0 0 0 0 0 0 0 1.5066408 0 0 0 1.5066408"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:justify;text-anchor:start">upon and extending existing work, evidence synthesis, and minimizing </tspan></tspan><tspan
              x="78.556641"
-             y="357.86739"><tspan
-               dx="0 0 0 0 0.51397443 0 0 0 0 0 0 0 0 0 0 0.51397443 0 0 0 0 0 0 0 0 0 0.51397824 0 0 0 0 0 0 0 0 0 0.51397824 0 0 0 0.51397061 0 0 0 0 0.51397061 0 0 0 0 0 0 0 0 0.51398587 0 0 0 0.51398587"
-               style="text-align:justify;text-anchor:start">and minimizing duplicate efforts². The more reusable the different </tspan></tspan><tspan
+             y="351.03506"><tspan
+               dx="0 0 0 0 0 0 0 0 0 0 0.77793825 0 0 0 0 0 0 0 0 0 0.77793825 0 0 0 0.77794206 0 0 0 0 0.77793443 0 0 0 0 0 0 0 0 0.77794206 0 0 0 0.77794206 0 0 0 0 0 0 0 0 0 0.77794206 0 0 0 0 0 0 0 0 0.77794206 0 0 0 0 0 0 0 0.77794206"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:justify;text-anchor:start">duplicate efforts². The more reusable the different research outputs are </tspan></tspan><tspan
              x="78.556641"
-             y="366.68685"><tspan
-               style="text-align:justify;text-anchor:start">research outputs are at any stage of your project, the better.                                             
+             y="360.13839"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:justify;text-anchor:start">at any stage of your project, the better.                                             
 </tspan></tspan></text>
         <g
            id="g7628-5"
@@ -1080,39 +1076,39 @@
            style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect7632-0-5);fill:#000000;fill-opacity:1;stroke:none;"
            x="-115.87242"
            y="0"
-           transform="translate(265.66212,0.86285413)"><tspan
+           transform="translate(265.66212,-0.19547921)"><tspan
              x="78.556641"
-             y="296.13119"><tspan
-               dx="0 0 0 0 1.8928311 0 0 0 0 1.8928311 0 0 0 0 0 0 0 0 0 0 0 1.8928387 0 0 0 0 0 0 1.8928311 0 0 0 0 0 0 1.8928311 0 0 0 0 0 0 1.8928311 0 0 0 0 0 0 0 1.8928311 0 0 0 0 0 0 0 0 1.8928311 0 0 1.8928311 0 0 0 0 0 1.8928311"
-               style="shape-inside:url(#rect7632-0-5)">The FAIR principles³ center around richly curated metadata to reach maximal </tspan></tspan><tspan
+             y="296.41506"><tspan
+               dx="0 0 0 0 0.45242727 0 0 0 0 0.45242631 0 0 0 0 0 0 0 0 0 0 0 0.45242631 0 0 0 0 0 0 0.45242631 0 0 0 0 0 0 0.45242631 0 0 0 0 0 0 0.45242631 0 0 0 0 0 0 0 0.45242631 0 0 0 0 0 0 0 0 0.45242631 0 0 0.45242631 0 0 0 0 0 0.45244157 0 0 0 0 0 0 0 0.45244157"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;shape-inside:url(#rect7632-0-5)">The FAIR principles³ center around richly curated metadata to reach maximal reusability. </tspan></tspan><tspan
              x="78.556641"
-             y="304.95065"><tspan
-               dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0.25903821 0 0 0.2590344 0 0 0 0 0 0 0 0 0 0.2590344 0 0 0 0 0 0 0 0 0.2590344 0 0 0 0 0 0.25904202 0 0 0 0 0.25902677 0 0 0 0 0 0 0 0 0 0.25904202 0 0 0.25904202 0 0 0 0 0 0 0 0 0 0.25904202 0 0 0.25904202 0 0 0 0 0 0 0 0.25904202 0 0 0 0 0.25904202"
-               style="shape-inside:url(#rect7632-0-5)">reusability. In practice, creating fully FAIR resources is difficult in systems that yet </tspan></tspan><tspan
+             y="305.5184"><tspan
+               dx="0 0 0 1.4950079 0 0 0 0 0 0 0 0 0 1.495006 0 0 0 0 0 0 0 0 1.495006 0 0 0 0 0 1.495006 0 0 0 0 1.495006 0 0 0 0 0 0 0 0 0 1.4949983 0 0 1.4950136 0 0 0 0 0 0 0 0 0 1.4950136 0 0 1.4950136 0 0 0 0 0 0 0 1.4949983 0 0 0 0 1.4949983 0 0 0 1.4950136 0 0 0 0 1.4950136 0 0 1.4950136 0 0 0 0 1.4950136"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;shape-inside:url(#rect7632-0-5)">In practice, creating fully FAIR resources is difficult in systems that yet lack or fail to </tspan></tspan><tspan
              x="78.556641"
-             y="313.7701"><tspan
-               dx="0 0 0 0 0 0.35806394 0 0 0.35806203 0 0 0 0 0.35806012 0 0 0.35806394 0 0 0 0 0 0 0 0 0 0 0 0.35806394 0 0 0 0.35806394 0 0 0 0 0 0 0 0 0 0.35807157 0 0 0 0 0 0 0 0 0 0.35805631 0 0 0 0.35807157 0 0 0 0 0 0 0 0 0 0 0 0.35805631 0 0 0 0.35805631"
-               style="shape-inside:url(#rect7632-0-5)">lack or fail to incentivize the necessary standards and procedures. But reusability </tspan></tspan><tspan
+             y="314.62173"><tspan
+               dx="0 0 0 0 0 0 0 0 0 0 0 0 0.79117525 0 0 0 0.79117906 0 0 0 0 0 0 0 0 0 0.79117906 0 0 0 0 0 0 0 0 0 0.79117906 0 0 0 0.79117143 0 0 0 0 0 0 0 0 0 0 0 0.79118669 0 0 0 0.79117143 0 0 0 0 0 0 0 0 0 0 0 0.79118669 0 0 0 0 0 0 0.79117143 0 0 0.79118669"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;shape-inside:url(#rect7632-0-5)">incentivize the necessary standards and procedures. But reusability should be improved </tspan></tspan><tspan
              x="78.556641"
-             y="322.58956"><tspan
-               dx="0 0 0 0 0 0 0 0.021947145 0 0 0.021947145 0 0 0 0 0 0 0 0 0.021943331 0 0 0 0 0 0 0 0 0 0 0 0 0 0.02195096 0.021943331 0.02195096 0.021943331 0.02195096 0.02195096 0.021935701 0.02195096 0.02195096 0.02195096 0.021935701 0.02195096 0.02195096 0.02195096 0.021935701 0.02195096 0.02195096 0.02195096 0.021935701 0.02195096 0.02195096 0.02195096 0.021935701 0.02195096 0.02195096 0.02195096 0.021935701 0.02195096 0.02195096 0.02195096 0.02195096 0.021935701 0.02195096 0.02195096 0.02195096 0.021935701 0.02195096 0.02195096 0.02195096 0.021935701 0.02195096 0.02195096 0.02195096 0.021935701 0.02195096 0.02195096 0.02195096 0.021935701 0.02195096 0.02195096 0.02195096 0.021935701 0.02195096 0.02195096 0.02195096 0.021935701 0.02195096 0.02195096 0.02195096 0.02195096 0.02195096 0.02195096 0.021920443 0.02195096 0.02195096 0.02195096 0.02195096 0.02195096 0.02195096 0.02195096 0.021920443 0.02195096 0.02195096 0.02195096 0.02195096 0.02195096"
-               style="shape-inside:url(#rect7632-0-5)">should be improved nevertheless.                                                                            
+             y="323.72506"><tspan
+               dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 1.3657488 1.3657488 1.3657488 1.3657488 1.3657488 1.3657488 1.3657526 1.3657488 1.3657488 1.3657488 1.3657488 1.3657488 1.3657488 1.3657488 1.3657488 1.3657488 1.3657488 1.3657488 1.3657488 1.3657564 1.3657488 1.3657488 1.3657488 1.3657488 1.3657488 1.3657488 1.3657488 1.3657564 1.3657411 1.3657564 1.3657411 1.3657564 1.3657411 1.3657564 1.3657411 1.3657564 1.3657411 1.3657564 1.3657411 1.3657564 1.3657411 1.3657564 1.3657411 1.3657564 1.3657564 1.3657411 1.3657564 1.3657411 1.3657564 1.3657411 1.3657564 1.3657411 1.3657564 1.3657411 1.3657564 1.3657411 1.3657564 1.3657411 1.3657564 1.3657411 1.3657564 1.3657564 1.3657411 1.3657564 1.3657411 1.3657411 1.3657717 1.3657411 1.3657411 1.3657411 1.3657717 1.3657411 1.3657411 1.3657411 1.3657717 1.3657411"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;shape-inside:url(#rect7632-0-5)">nevertheless.                                                                            
 </tspan></tspan><tspan
              x="78.556641"
-             y="331.40902"><tspan
-               style="shape-inside:url(#rect7632-0-5)">
+             y="332.8284"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;shape-inside:url(#rect7632-0-5)">
 </tspan></tspan><tspan
              x="78.556641"
-             y="340.22848"><tspan
-               dx="0 0 0 1.1034577 0 0 0 0 0 0 0 0 0 1.1034558 0 0 0 0 1.1034634 0 0 0 0 0 0 1.1034558 0 0 0 0 0 0 0 0 0 0 1.1034482 0 0 0 0 0 0 0 0 0 0 1.1034634 0 0 0 0 1.1034634 0 0 0 1.1034634 0 0 0 0 0 0 0 1.1034482 0 0 0 0 0 0 0 0 0 0 0 1.1034329 0 0 1.1034329"
-               style="shape-inside:url(#rect7632-0-5)">We introduce four widely accessible strategies that can elevate reusability as a </tspan></tspan><tspan
+             y="341.93173"><tspan
+               dx="0 0 0 0.097224593 0 0 0 0 0 0 0 0 0 0.097224593 0 0 0 0 0.097228408 0 0 0 0 0 0 0.097224593 0 0 0 0 0 0 0 0 0 0 0.097224593 0 0 0 0 0 0 0 0 0 0 0.097216964 0 0 0 0 0.097232223 0 0 0 0.097216964 0 0 0 0 0 0 0 0.097216964 0 0 0 0 0 0 0 0 0 0 0 0.097216964 0 0 0.097232223 0 0.097216964"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;shape-inside:url(#rect7632-0-5)">We introduce four widely accessible strategies that can elevate reusability as a byproduct </tspan></tspan><tspan
              x="78.556641"
-             y="349.04794"><tspan
-               dx="0 0 0 0 0 0 0 0 0 0 1.5052273 0 0 1.5052311 0 0 0 0 0 0 0 0 0 1.5052273 0 0 0 0 0 0 0 0 1.5052273 0 0 0 0 1.5052273 0 0 0 0 0 0 0 0 0 0 0 1.5052273 0 0 0 0 1.5052273 0 0 0 0 1.5052273 0 0 0 0 0 0 0 0 0 0 1.5052273"
-               style="shape-inside:url(#rect7632-0-5)">byproduct of pragmatic research data management, even when compliance to </tspan></tspan><tspan
+             y="351.03506"><tspan
+               dx="0 0 0 2.4709506 0 0 0 0 0 0 0 0 0 2.4709506 0 0 0 0 0 0 0 0 2.4709506 0 0 0 0 2.4709506 0 0 0 0 0 0 0 0 0 0 0 2.4709506 0 0 0 0 2.4709506 0 0 0 0 2.4709506 0 0 0 0 0 0 0 0 0 0 2.4709506 0 0 2.4709506 0 0 0 0 2.4709353 0 0 0 0 0 2.4709353"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;shape-inside:url(#rect7632-0-5)">of pragmatic research data management, even when compliance to FAIR isn't yet </tspan></tspan><tspan
              x="78.556641"
-             y="357.86739"><tspan
-               style="shape-inside:url(#rect7632-0-5)">FAIR isn't yet possible.  </tspan></tspan></text>
+             y="360.13839"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;shape-inside:url(#rect7632-0-5)">possible.  </tspan></tspan></text>
       </g>
     </g>
     <g
@@ -1198,7 +1194,7 @@
          x="20.935547"
          y="160.31748"><tspan
            style="font-size:65%;baseline-shift:super">1</tspan><tspan
-           style="shape-inside:url(#rect13666)"> Institute of Neuroscience and Medicine, Brain &amp; Behaviour INM-7, Research Centre Jülich, Germany
+           style="shape-inside:url(#rect13666)"> Institute of Neuroscience and Medicine, Brain &amp; Behaviour INM-7, Research Centre Jülich, Germany  
 </tspan></tspan><tspan
          x="20.935547"
          y="168.25498"><tspan
@@ -1211,7 +1207,7 @@
            style="shape-inside:url(#rect13666)">NeuroDataScience - ORIGAMI laboratory, McConnell Brain Imaging Centre, The Neuro (Montreal Neurological Institute-Hospital), Faculty of Medicine and Health Sciences, McGill University, Montreal, </tspan></tspan><tspan
          x="20.935547"
          y="184.12998"><tspan
-           style="shape-inside:url(#rect13666)">Quebec, Canada, and Helen Wills Neuroscience, University of California Berkeley, USAl
+           style="shape-inside:url(#rect13666)">Quebec, Canada, and Helen Wills Neuroscience, University of California Berkeley, USAl 
 </tspan></tspan><tspan
          x="20.935547"
          y="192.06748"><tspan
@@ -4821,11 +4817,11 @@
       <text
          xml:space="preserve"
          id="text6592"
-         style="font-style:normal;font-weight:normal;font-size:12.7px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect6596);fill:#ffe8a7;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect6596);fill:#ffe8a7;fill-opacity:1;stroke:none"
          transform="rotate(-33.536501,985.45057,135.92109)"><tspan
-           x="996.84473"
-           y="115.32637"><tspan
-             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#ffe8a7;fill-opacity:1">Why?</tspan></tspan></text>
+           x="994.04368"
+           y="119.75315"><tspan
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Quicksand Medium';-inkscape-font-specification:'Quicksand Medium, Bold Italic';fill:#ffe8a7;fill-opacity:1">Why?</tspan></tspan></text>
     </g>
     <g
        id="g6568"
@@ -5281,27 +5277,27 @@
         <text
            xml:space="preserve"
            id="text4713"
-           style="font-style:normal;font-weight:normal;font-size:12.7px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4715);fill:#ffe8a7;fill-opacity:1;stroke:none"
+           style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4715);fill:#ffe8a7;fill-opacity:1;stroke:none"
            transform="rotate(-33.536501,985.45057,135.92109)"><tspan
-             x="996.84473"
-             y="115.32637"><tspan
-               style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#ffe8a7;fill-opacity:1">Why?</tspan></tspan></text>
+             x="994.04368"
+             y="119.75315"><tspan
+               style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Quicksand Medium';-inkscape-font-specification:'Quicksand Medium, Bold Italic';fill:#ffe8a7;fill-opacity:1">Why?</tspan></tspan></text>
         <text
            xml:space="preserve"
            id="text4713-7"
-           style="font-style:normal;font-weight:normal;font-size:12.7px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4715-5);fill:#ffe8a7;fill-opacity:1;stroke:none;"
+           style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4715-5);fill:#ffe8a7;fill-opacity:1;stroke:none;"
            transform="rotate(35.245587,802.35578,363.13578)"><tspan
-             x="996.84473"
-             y="115.32637"><tspan
-               style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#ffe8a7;fill-opacity:1">Why?</tspan></tspan></text>
+             x="993.8574"
+             y="119.75315"><tspan
+               style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold Italic';fill:#ffe8a7;fill-opacity:1">Why?</tspan></tspan></text>
         <text
            xml:space="preserve"
            id="text4713-7-1"
-           style="font-style:normal;font-weight:normal;font-size:12.7px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4715-5-4);fill:#ffe8a7;fill-opacity:1;stroke:none;"
+           style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4715-5-4);fill:#ffe8a7;fill-opacity:1;stroke:none;"
            transform="rotate(35.245587,448.99168,477.94338)"><tspan
-             x="996.84473"
-             y="115.32637"><tspan
-               style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#ffe8a7;fill-opacity:1">Why?</tspan></tspan></text>
+             x="994.04368"
+             y="119.75315"><tspan
+               style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Quicksand Medium';-inkscape-font-specification:'Quicksand Medium, Bold Italic';fill:#ffe8a7;fill-opacity:1">Why?</tspan></tspan></text>
       </g>
       <text
          xml:space="preserve"
@@ -5311,27 +5307,28 @@
          x="-67.526962"
          y="0"><tspan
            x="1052.8809"
-           y="60.497623"><tspan
-             style="font-weight:bold">Full transparency</tspan><tspan
-             style="shape-inside:url(#rect6666)">: uniquely &amp; un- </tspan></tspan><tspan
+           y="60.809886"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold'">Full transparency:</tspan><tspan
+             style="font-weight:normal"> uniquely &amp; un- </tspan></tspan><tspan
            x="1052.8809"
-           y="70.199008"><tspan
-             style="shape-inside:url(#rect6666)">ambiguously identify digital files
+           y="70.823535"><tspan
+             style="font-weight:normal">ambiguously identify digital files</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold'">
 </tspan></tspan><tspan
            x="1052.8809"
-           y="79.900394"><tspan
-             style="shape-inside:url(#rect6666)">
+           y="80.837184"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold'">
 </tspan></tspan><tspan
            x="1052.8809"
-           y="89.601779"><tspan
-             style="font-weight:bold">Tidiness</tspan><tspan
-             style="shape-inside:url(#rect6666)">: changes to content are </tspan></tspan><tspan
+           y="90.850833"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold'">Tidiness: </tspan><tspan
+             style="font-weight:normal">changes to content are not </tspan></tspan><tspan
            x="1052.8809"
-           y="99.303165"><tspan
-             style="shape-inside:url(#rect6666)">not expressed in additional files, </tspan></tspan><tspan
+           y="100.86448"><tspan
+             style="font-weight:normal">expressed in additional files, but new </tspan></tspan><tspan
            x="1052.8809"
-           y="109.00455"><tspan
-             style="shape-inside:url(#rect6666)">but new versions of the same file  </tspan></tspan></text>
+           y="110.87813"><tspan
+             style="font-weight:normal">versions of the same file  </tspan></tspan></text>
       <text
          xml:space="preserve"
          id="text6664-9"
@@ -5340,33 +5337,32 @@
          x="-59.66732"
          y="0"><tspan
            x="1052.8809"
-           y="60.497623"><tspan
-             style="font-weight:bold;text-align:start;text-anchor:start">Full control</tspan><tspan
-             style="font-weight:normal">:</tspan><tspan
-             style="font-weight:bold;text-align:start;text-anchor:start"> </tspan><tspan
-             style="shape-inside:url(#rect6666-2)">mistakes are not forever anymore. </tspan></tspan><tspan
+           y="60.809886"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold';text-align:start;text-anchor:start">Full control: </tspan><tspan
+             style="font-weight:normal">mistakes are not forever anymore. Previous </tspan></tspan><tspan
            x="1052.8809"
-           y="70.199008"><tspan
-             style="shape-inside:url(#rect6666-2)">Previous results, code, or data can be brought back 
+           y="70.823535"><tspan
+             style="font-weight:normal">results, code, or data can be brought back 
 </tspan></tspan><tspan
            x="1052.8809"
-           y="79.900394"><tspan
-             style="shape-inside:url(#rect6666-2)">to life
+           y="80.837184"><tspan
+             style="font-weight:normal">to life</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold'">
 </tspan></tspan><tspan
            x="1052.8809"
-           y="89.601779"><tspan
-             style="shape-inside:url(#rect6666-2)">
+           y="90.850833"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold'">
 </tspan></tspan><tspan
            x="1052.8809"
-           y="99.303165"><tspan
-             style="font-weight:bold">Easier collaboration</tspan><tspan
-             style="shape-inside:url(#rect6666-2)">: Most version control tools </tspan></tspan><tspan
+           y="100.86448"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold'">Easier collaboration: </tspan><tspan
+             style="font-weight:normal">Most version control tools facilitate </tspan></tspan><tspan
            x="1052.8809"
-           y="109.00455"><tspan
-             style="shape-inside:url(#rect6666-2)">facilitate common scientific workflows such as </tspan></tspan><tspan
+           y="110.87813"><tspan
+             style="font-weight:normal">common scientific workflows such as (remote) </tspan></tspan><tspan
            x="1052.8809"
-           y="118.70594"><tspan
-             style="shape-inside:url(#rect6666-2)">(remote) collaboration and reuse</tspan></tspan></text>
+           y="120.89178"><tspan
+             style="font-weight:normal">collaboration and reuse</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:9.87777px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -5386,31 +5382,30 @@
          x="-59.66732"
          y="0"><tspan
            x="1052.8809"
-           y="60.497623"><tspan
-             style="font-weight:bold;text-align:start;text-anchor:start">Metadata validity</tspan><tspan>:</tspan><tspan
-             style="font-weight:bold;text-align:start;text-anchor:start"> </tspan><tspan>Metadata can be proven to be </tspan></tspan><tspan
+           y="60.809886"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold'">Metadata validity:</tspan><tspan
+             style="font-weight:normal"> Metadata can be proven to be valid </tspan></tspan><tspan
            x="1052.8809"
-           y="70.199008"><tspan>valid when processing based on them results in </tspan></tspan><tspan
+           y="70.823535"><tspan
+             style="font-weight:normal">when processing based on them results in adaquate </tspan></tspan><tspan
            x="1052.8809"
-           y="79.900394"><tspan>adaquate outputs. Valid metadata is a basis for </tspan></tspan><tspan
-           x="1052.8809"
-           y="89.601779"><tspan>reusability.</tspan><tspan
-             style="shape-inside:url(#rect6666-2-9)">
+           y="80.837184"><tspan
+             style="font-weight:normal">outputs. Valid metadata is a basis for reusability.
 </tspan></tspan><tspan
            x="1052.8809"
-           y="99.303165"><tspan
-             style="shape-inside:url(#rect6666-2-9)">
+           y="90.850833"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold'">
 </tspan></tspan><tspan
            x="1052.8809"
-           y="109.00455"><tspan
-             style="font-weight:bold">Reuse and Recompute</tspan><tspan
-             style="shape-inside:url(#rect6666-2-9)">: Readily available process </tspan></tspan><tspan
+           y="100.86448"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold'">Reuse and Recompute: </tspan><tspan
+             style="font-weight:normal">Readily available process </tspan></tspan><tspan
            x="1052.8809"
-           y="118.70594"><tspan
-             style="shape-inside:url(#rect6666-2-9)">provenance increases transparency and reproducibility </tspan></tspan><tspan
+           y="110.87813"><tspan
+             style="font-weight:normal">provenance increases transparency and reproducibility of </tspan></tspan><tspan
            x="1052.8809"
-           y="128.40732"><tspan
-             style="shape-inside:url(#rect6666-2-9)">of processing for original authors and reusers. </tspan></tspan></text>
+           y="120.89178"><tspan
+             style="font-weight:normal">processing for original authors and reusers. </tspan></tspan></text>
       <text
          xml:space="preserve"
          id="text6664-9-4-2"
@@ -5419,32 +5414,37 @@
          x="-59.66732"
          y="0"><tspan
            x="1052.8809"
-           y="60.497623"><tspan
-             style="font-weight:bold;text-align:start;text-anchor:start">Comprehension</tspan><tspan>:</tspan><tspan
-             style="font-weight:bold;text-align:start;text-anchor:start"> </tspan><tspan>Clear and unblurred 
+           y="60.809886"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold'">Comprehension:</tspan><tspan
+             style="font-weight:normal"> Clear and unblurred 
 </tspan></tspan><tspan
            x="1052.8809"
-           y="70.199008"><tspan>structuring aids understanding, especially for non-</tspan></tspan><tspan
-           x="1052.8809"
-           y="79.900394"><tspan>domain experts and researchers unfamiliar with a </tspan></tspan><tspan
-           x="1052.8809"
-           y="89.601779"><tspan>project. </tspan><tspan
-             style="shape-inside:url(#rect6666-2-9-2)">
+           y="70.823535"><tspan
+             style="font-weight:normal">structuring aids understanding, especially 
 </tspan></tspan><tspan
            x="1052.8809"
-           y="99.303165"><tspan
-             style="shape-inside:url(#rect6666-2-9-2)">
+           y="80.837184"><tspan
+             style="font-weight:normal">for non-domain experts and researchers unfamiliar 
 </tspan></tspan><tspan
            x="1052.8809"
-           y="109.00455"><tspan
-             style="font-weight:bold">Provenance</tspan><tspan
-             style="shape-inside:url(#rect6666-2-9-2)">: Research outputs can declare </tspan></tspan><tspan
+           y="90.850833"><tspan
+             style="font-weight:normal">with a project. 
+</tspan></tspan><tspan
            x="1052.8809"
-           y="118.70594"><tspan
-             style="shape-inside:url(#rect6666-2-9-2)">dependencies to individual modules to capture the </tspan></tspan><tspan
+           y="100.86448"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold'">
+</tspan></tspan><tspan
            x="1052.8809"
-           y="128.40732"><tspan
-             style="shape-inside:url(#rect6666-2-9-2)">their building blocks. </tspan></tspan></text>
+           y="110.87813"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold'">Provenance:</tspan><tspan
+             style="font-weight:normal"> Research outputs can declare 
+</tspan></tspan><tspan
+           x="1052.8809"
+           y="120.89178"><tspan
+             style="font-weight:normal">dependencies to individual modules to capture their </tspan></tspan><tspan
+           x="1052.8809"
+           y="130.90543"><tspan
+             style="font-weight:normal">building blocks. </tspan></tspan></text>
     </g>
     <g
        id="g3422"
@@ -5610,13 +5610,13 @@
           <text
              xml:space="preserve"
              id="text4713-1"
-             style="font-style:normal;font-weight:normal;font-size:9.87778px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4715-8);fill:#000000;fill-opacity:1;stroke:none;"
+             style="font-style:normal;font-weight:normal;font-size:12.7px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4715-8);fill:#000000;fill-opacity:1;stroke:none;"
              transform="rotate(-35.16691,920.10488,123.41375)"
              inkscape:transform-center-x="55.73228"
              inkscape:transform-center-y="-45.919707"><tspan
-               x="1001.2383"
-               y="112.82936"><tspan
-                 style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">How?</tspan></tspan></text>
+               x="999.7078"
+               y="115.83734"><tspan
+                 style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:'Quicksand Medium';-inkscape-font-specification:'Quicksand Medium, Bold Italic'">How?</tspan></tspan></text>
           <text
              xml:space="preserve"
              id="text6664-0"
@@ -5625,20 +5625,16 @@
              x="-113.54034"
              y="0"><tspan
                x="1052.8809"
-               y="60.497623"><tspan
-                 style="text-align:start;text-anchor:start;shape-inside:url(#rect6666-5)">Use version control tools for </tspan><tspan
-                 style="text-align:start;text-anchor:start;shape-inside:url(#rect6666-5)">code </tspan><tspan
+               y="60.809886"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:start;text-anchor:start;shape-inside:url(#rect6666-5)">Use version control tools for code </tspan><tspan
                  style="font-weight:bold">and</tspan><tspan
-                 style="text-align:start;text-anchor:start;shape-inside:url(#rect6666-5)"> data: Git, </tspan></tspan><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:start;text-anchor:start;shape-inside:url(#rect6666-5)"> data: Git, git-</tspan></tspan><tspan
                x="1052.8809"
-               y="70.199008"><tspan
-                 style="text-align:start;text-anchor:start;shape-inside:url(#rect6666-5)">git-annex, </tspan><tspan
-                 style="text-align:start;text-anchor:start;shape-inside:url(#rect6666-5)">DataLad, versioning features of </tspan><tspan
-                 style="text-align:start;text-anchor:start;shape-inside:url(#rect6666-5)">cloud </tspan></tspan><tspan
+               y="70.823535"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:start;text-anchor:start;shape-inside:url(#rect6666-5)">annex, DataLad, versioning features of cloud services </tspan></tspan><tspan
                x="1052.8809"
-               y="79.900394"><tspan
-                 style="text-align:start;text-anchor:start;shape-inside:url(#rect6666-5)">services (e.g., AWS </tspan><tspan
-                 style="text-align:start;text-anchor:start;shape-inside:url(#rect6666-5)">buckets)</tspan></tspan></text>
+               y="80.837184"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:start;text-anchor:start;shape-inside:url(#rect6666-5)">(e.g., AWS buckets)</tspan></tspan></text>
           <text
              xml:space="preserve"
              id="text6664-9-3"
@@ -5647,16 +5643,16 @@
              x="-108.34859"
              y="0"><tspan
                x="1052.8809"
-               y="60.497623"><tspan
-                 style="shape-inside:url(#rect6666-2-0)">Ensure that everything in your project </tspan><tspan
-                 style="font-style:italic;font-weight:bold;text-align:start;text-anchor:start">can</tspan><tspan
-                 style="shape-inside:url(#rect6666-2-0)"> be versioned: </tspan></tspan><tspan
+               y="60.809886"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand">Ensure that everything in your project </tspan><tspan
+                 style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:start;text-anchor:start">can</tspan><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand"> be versioned: enshrine </tspan></tspan><tspan
                x="1052.8809"
-               y="70.199008"><tspan
-                 style="shape-inside:url(#rect6666-2-0)">enshrine software environments in software containers, write </tspan></tspan><tspan
+               y="70.823535"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand">software environments in software containers, write your code into </tspan></tspan><tspan
                x="1052.8809"
-               y="79.900394"><tspan
-                 style="shape-inside:url(#rect6666-2-0)">your code into scripts instead of using GUIs</tspan></tspan></text>
+               y="80.837184"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand">scripts instead of using GUIs</tspan></tspan></text>
         </g>
         <g
            id="g7188-7"
@@ -5702,13 +5698,13 @@
           <text
              xml:space="preserve"
              id="text4713-1-1"
-             style="font-style:normal;font-weight:normal;font-size:9.87778px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4715-8-4);fill:#000000;fill-opacity:1;stroke:none;"
+             style="font-style:normal;font-weight:normal;font-size:12.7px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4715-8-4);fill:#000000;fill-opacity:1;stroke:none;"
              transform="rotate(-35.16691,920.10488,123.41375)"
              inkscape:transform-center-x="55.73228"
              inkscape:transform-center-y="-45.919707"><tspan
-               x="1001.2383"
-               y="112.82936"><tspan
-                 style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">How?</tspan></tspan></text>
+               x="999.7078"
+               y="115.83734"><tspan
+                 style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:'Quicksand Medium';-inkscape-font-specification:'Quicksand Medium, Bold Italic'">How?</tspan></tspan></text>
           <text
              xml:space="preserve"
              id="text6664-0-7"
@@ -5717,15 +5713,14 @@
              x="-113.54034"
              y="0"><tspan
                x="1052.8809"
-               y="60.497623"><tspan
-                 style="font-weight:bold">Capture</tspan><tspan
-                 style="shape-inside:url(#rect6666-5-4)"> parametrization and invocation of any </tspan></tspan><tspan
+               y="60.809886"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold'">Capture parametrization and invocation of any </tspan></tspan><tspan
                x="1052.8809"
-               y="70.199008"><tspan
-                 style="shape-inside:url(#rect6666-5-4)">processing (in configuration files, Makefiles, </tspan></tspan><tspan
+               y="70.823535"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold'">processing (in configuration files, Makefiles, automatic </tspan></tspan><tspan
                x="1052.8809"
-               y="79.900394"><tspan
-                 style="shape-inside:url(#rect6666-5-4)">automatic execution capture, ...).</tspan></tspan></text>
+               y="80.837184"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold'">execution capture, ...).</tspan></tspan></text>
           <text
              xml:space="preserve"
              id="text6664-9-3-8"
@@ -5734,19 +5729,19 @@
              x="-108.34859"
              y="0"><tspan
                x="1052.8809"
-               y="60.497623"><tspan
-                 style="shape-inside:url(#rect6666-2-0-4)">Ensure that processing that </tspan><tspan
-                 style="font-style:normal;font-weight:bold">relies</tspan><tspan
-                 style="shape-inside:url(#rect6666-2-0-4)"> on this metadata </tspan><tspan
-                 style="font-weight:bold">uses </tspan><tspan
-                 style="shape-inside:url(#rect6666-2-0-4)">it
+               y="60.809886"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;shape-inside:url(#rect6666-2-0-4)">Ensure that processing that </tspan><tspan
+                 style="font-style:italic">relies</tspan><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;shape-inside:url(#rect6666-2-0-4)"> on this metadata </tspan><tspan
+                 style="font-weight:bold">uses</tspan><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;shape-inside:url(#rect6666-2-0-4)"> it (by
 </tspan></tspan><tspan
                x="1052.8809"
-               y="70.199008"><tspan
-                 style="shape-inside:url(#rect6666-2-0-4)">(by reading in configurations from files, etc) in order to test the </tspan></tspan><tspan
+               y="70.823535"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;shape-inside:url(#rect6666-2-0-4)">reading in configurations from files, etc) in order to test its validity </tspan></tspan><tspan
                x="1052.8809"
-               y="79.900394"><tspan
-                 style="shape-inside:url(#rect6666-2-0-4)">validity of it continuously. </tspan></tspan></text>
+               y="80.837184"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;shape-inside:url(#rect6666-2-0-4)">continuously. </tspan></tspan></text>
         </g>
       </g>
     </g>
@@ -5800,13 +5795,13 @@
           <text
              xml:space="preserve"
              id="text4713-1-8"
-             style="font-style:normal;font-weight:normal;font-size:9.87778px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4715-8-9);fill:#000000;fill-opacity:1;stroke:none;"
+             style="font-style:normal;font-weight:normal;font-size:12.7px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4715-8-9);fill:#000000;fill-opacity:1;stroke:none;"
              transform="rotate(-35.16691,920.10488,123.41375)"
              inkscape:transform-center-x="55.73228"
              inkscape:transform-center-y="-45.919707"><tspan
-               x="1001.2383"
-               y="112.82936"><tspan
-                 style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">How?</tspan></tspan></text>
+               x="999.7078"
+               y="115.83734"><tspan
+                 style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:'Quicksand Medium';-inkscape-font-specification:'Quicksand Medium, Bold Italic'">How?</tspan></tspan></text>
           <text
              xml:space="preserve"
              id="text6664-0-8"
@@ -5815,46 +5810,41 @@
              x="-113.54034"
              y="0"><tspan
                x="1052.8809"
-               y="60.497623"><tspan
-                 style="text-align:start;text-anchor:start;shape-inside:url(#rect6666-5-7)">                   </tspan><tspan
-                 style="font-weight:bold">Modularize when files...</tspan><tspan
-                 style="text-align:start;text-anchor:start;shape-inside:url(#rect6666-5-7)">
+               y="60.809886"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:start;text-anchor:start;shape-inside:url(#rect6666-5-7)">                      Modularize when files...
 </tspan></tspan><tspan
                x="1052.8809"
-               y="70.199008"><tspan
-                 style="text-align:start;text-anchor:start;shape-inside:url(#rect6666-5-7)">                   - cater different target </tspan><tspan
+               y="70.823535"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:start;text-anchor:start;shape-inside:url(#rect6666-5-7)">
+</tspan></tspan><tspan
+               x="1052.8809"
+               y="80.837184"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:start;text-anchor:start;shape-inside:url(#rect6666-5-7)">                     - cater different target </tspan><tspan
                  style="font-weight:bold">audiences</tspan><tspan
-                 style="text-align:start;text-anchor:start;shape-inside:url(#rect6666-5-7)"> (raw data vs. 
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:start;text-anchor:start;shape-inside:url(#rect6666-5-7)"> (raw data vs. results), 
 </tspan></tspan><tspan
                x="1052.8809"
-               y="79.900394"><tspan
-                 style="text-align:start;text-anchor:start;shape-inside:url(#rect6666-5-7)">                     aggregated results), 
-</tspan></tspan><tspan
-               x="1052.8809"
-               y="89.601779"><tspan
-                 style="text-align:start;text-anchor:start;shape-inside:url(#rect6666-5-7)">- have different </tspan><tspan
+               y="90.850833"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:start;text-anchor:start;shape-inside:url(#rect6666-5-7)">- have different </tspan><tspan
                  style="font-weight:bold">confidentiality</tspan><tspan
-                 style="text-align:start;text-anchor:start;shape-inside:url(#rect6666-5-7)"> (personal vs anonymous data), 
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:start;text-anchor:start;shape-inside:url(#rect6666-5-7)"> (personal vs anonymous data), 
 </tspan></tspan><tspan
                x="1052.8809"
-               y="99.303165"><tspan
-                 style="text-align:start;text-anchor:start;shape-inside:url(#rect6666-5-7)">- depend on different amounts of domain </tspan><tspan
+               y="100.86448"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:start;text-anchor:start;shape-inside:url(#rect6666-5-7)">- depend on different amounts of domain </tspan><tspan
                  style="font-weight:bold">knowledge</tspan><tspan
-                 style="text-align:start;text-anchor:start;shape-inside:url(#rect6666-5-7)"> or access   
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:start;text-anchor:start;shape-inside:url(#rect6666-5-7)"> or </tspan><tspan
+                 style="font-weight:bold">access</tspan><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:start;text-anchor:start;shape-inside:url(#rect6666-5-7)"> (data </tspan></tspan><tspan
+               x="1052.8809"
+               y="110.87813"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:start;text-anchor:start;shape-inside:url(#rect6666-5-7)">in proprietary formats vs open file formats).
 </tspan></tspan><tspan
                x="1052.8809"
-               y="109.00455"><tspan
-                 style="text-align:start;text-anchor:start;shape-inside:url(#rect6666-5-7)">  (data in proprietary formats vs open file formats).
-</tspan></tspan><tspan
-               x="1052.8809"
-               y="118.70594"><tspan
-                 style="text-align:start;text-anchor:start;shape-inside:url(#rect6666-5-7)">- have different evolutionary </tspan><tspan
+               y="120.89178"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:start;text-anchor:start;shape-inside:url(#rect6666-5-7)">- have different evolutionary </tspan><tspan
                  style="font-weight:bold">pace</tspan><tspan
-                 style="text-align:start;text-anchor:start;shape-inside:url(#rect6666-5-7)"> (“factual” data vs. 
-</tspan></tspan><tspan
-               x="1052.8809"
-               y="128.40732"><tspan
-                 style="text-align:start;text-anchor:start;shape-inside:url(#rect6666-5-7)">  ongoing acquisitions)</tspan></tspan></text>
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand;text-align:start;text-anchor:start;shape-inside:url(#rect6666-5-7)"> (“factual” data vs. ongoing study)</tspan></tspan></text>
           <text
              xml:space="preserve"
              style="font-style:normal;font-weight:normal;font-size:9.87777px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -5916,13 +5906,13 @@
           <text
              xml:space="preserve"
              id="text4713-1-1-2"
-             style="font-style:normal;font-weight:normal;font-size:9.87778px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4715-8-4-8);fill:#000000;fill-opacity:1;stroke:none;"
+             style="font-style:normal;font-weight:normal;font-size:12.7px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4715-8-4-8);fill:#000000;fill-opacity:1;stroke:none;"
              transform="rotate(-35.16691,920.10488,123.41375)"
              inkscape:transform-center-x="55.73228"
              inkscape:transform-center-y="-45.919707"><tspan
-               x="1001.2383"
-               y="112.82936"><tspan
-                 style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic'">How?</tspan></tspan></text>
+               x="999.7078"
+               y="115.83734"><tspan
+                 style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:'Quicksand Medium';-inkscape-font-specification:'Quicksand Medium, Bold Italic'">How?</tspan></tspan></text>
           <text
              xml:space="preserve"
              id="text6664-0-7-5"
@@ -5931,12 +5921,16 @@
              x="-113.54034"
              y="0"><tspan
                x="1052.8809"
-               y="60.497623"><tspan>Ensure </tspan><tspan
-                 style="font-weight:bold">independence</tspan><tspan> from file-system </tspan></tspan><tspan
+               y="60.809886"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand">Ensure </tspan><tspan
+                 style="font-weight:bold">independence</tspan><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand"> from file-system idiosyncrasies </tspan></tspan><tspan
                x="1052.8809"
-               y="70.199008"><tspan>idiosyncrasies (no hard-coded absolute paths, no </tspan></tspan><tspan
+               y="70.823535"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand">(no hard-coded absolute paths, no infrastructure-</tspan></tspan><tspan
                x="1052.8809"
-               y="79.900394"><tspan>infrastructure-specific processing components).</tspan></tspan></text>
+               y="80.837184"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand">specific processing components).</tspan></tspan></text>
           <text
              xml:space="preserve"
              id="text6664-9-3-8-4"
@@ -5945,7 +5939,8 @@
              x="-108.34859"
              y="0"><tspan
                x="1052.8809"
-               y="60.497623"><tspan>Portability benefits from previous traits!</tspan></tspan></text>
+               y="60.809886"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand">Portability benefits from previous traits!</tspan></tspan></text>
           <text
              xml:space="preserve"
              id="text6664-9-3-8-4-5"
@@ -5954,14 +5949,14 @@
              x="-108.34859"
              y="0"><tspan
                x="1052.8809"
-               y="60.497623"><tspan
-                 style="shape-inside:url(#rect6666-2-0-4-1-7)">Ensure </tspan><tspan
-                 style="font-weight:bold">completeness</tspan><tspan
-                 style="shape-inside:url(#rect6666-2-0-4-1-7)">: all required elements need to be a part 
+               y="60.809886"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand">Ensure </tspan><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand">completeness</tspan><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand">: all required elements need to be a part 
 </tspan></tspan><tspan
                x="1052.8809"
-               y="70.199008"><tspan
-                 style="shape-inside:url(#rect6666-2-0-4-1-7)">of your project. Document everything, and, ideally, automate.</tspan></tspan></text>
+               y="70.823535"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:Quicksand">of your project. Document everything, and, ideally, automate.</tspan></tspan></text>
         </g>
       </g>
     </g>
@@ -5973,25 +5968,25 @@
        x="-67.526962"
        y="0"><tspan
          x="1052.8809"
-         y="60.497623"><tspan
-           style="font-weight:bold">Metadata quality</tspan><tspan
-           style="shape-inside:url(#rect6666-0)">: The full </tspan></tspan><tspan
+         y="60.809886"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold'">Metadata quality: </tspan><tspan
+           style="font-weight:normal">The full </tspan></tspan><tspan
          x="1052.8809"
-         y="70.199008"><tspan
-           style="shape-inside:url(#rect6666-0)">amount of valid process </tspan></tspan><tspan
+         y="70.823535"><tspan
+           style="font-weight:normal">amount of valid process </tspan></tspan><tspan
          x="1052.8809"
-         y="79.900394"><tspan
-           style="shape-inside:url(#rect6666-0)">provenance exists at output </tspan></tspan><tspan
+         y="80.837184"><tspan
+           style="font-weight:normal">provenance exists at output </tspan></tspan><tspan
          x="1052.8809"
-         y="89.601779"><tspan
-           style="shape-inside:url(#rect6666-0)">creation - later reconstruction </tspan></tspan><tspan
+         y="90.850833"><tspan
+           style="font-weight:normal">creation - later reconstruction </tspan></tspan><tspan
          x="1052.8809"
-         y="99.303165"><tspan
-           style="shape-inside:url(#rect6666-0)">can be costly or incomplete
+         y="100.86448"><tspan
+           style="font-weight:normal">can be costly or incomplete
 </tspan></tspan><tspan
          x="1052.8809"
-         y="109.00455"><tspan
-           style="shape-inside:url(#rect6666-0)"> </tspan></tspan></text>
+         y="110.87813"><tspan
+           style="font-weight:normal"> </tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text6664-5-9"
@@ -6000,19 +5995,20 @@
        x="-67.526962"
        y="0"><tspan
          x="1052.8809"
-         y="60.497623"><tspan
-           style="font-weight:bold">Flexibility</tspan><tspan
-           style="shape-inside:url(#rect6666-0-6)">: Modular units </tspan></tspan><tspan
+         y="60.809886"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold';shape-inside:url(#rect6666-0-6)">Flexibility: </tspan><tspan
+           style="font-weight:normal">Modular units can be </tspan></tspan><tspan
          x="1052.8809"
-         y="70.199008"><tspan
-           style="shape-inside:url(#rect6666-0-6)">can be reused more easily, </tspan></tspan><tspan
+         y="70.823535"><tspan
+           style="font-weight:normal">reused more easily, in more </tspan></tspan><tspan
          x="1052.8809"
-         y="79.900394"><tspan
-           style="shape-inside:url(#rect6666-0-6)">in more contexts.
+         y="80.837184"><tspan
+           style="font-weight:normal">contexts.</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold';shape-inside:url(#rect6666-0-6)">
 </tspan></tspan><tspan
          x="1052.8809"
-         y="89.601779"><tspan
-           style="shape-inside:url(#rect6666-0-6)"> </tspan></tspan></text>
+         y="90.850833"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold';shape-inside:url(#rect6666-0-6)"> </tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text6664-5-9-7"
@@ -6021,28 +6017,29 @@
        x="-67.526962"
        y="0"><tspan
          x="1052.8809"
-         y="60.497623"><tspan
-           style="font-weight:bold">Infrastructure independence</tspan><tspan
-           style="shape-inside:url(#rect6666-0-6-4)">: Even when </tspan></tspan><tspan
+         y="60.809886"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold';shape-inside:url(#rect6666-0-6-4)">Infrastructure independence: </tspan><tspan
+           style="font-weight:normal">Even when original </tspan></tspan><tspan
          x="1052.8809"
-         y="70.199008"><tspan
-           style="shape-inside:url(#rect6666-0-6-4)">original compute environments are not accessible, </tspan></tspan><tspan
-         x="1052.8809"
-         y="79.900394"><tspan
-           style="shape-inside:url(#rect6666-0-6-4)">processing is possible.
+         y="70.823535"><tspan
+           style="font-weight:normal">compute environments are not accessible, 
 </tspan></tspan><tspan
          x="1052.8809"
-         y="89.601779"><tspan
-           style="shape-inside:url(#rect6666-0-6-4)">
+         y="80.837184"><tspan
+           style="font-weight:normal">processing is possible.</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold';shape-inside:url(#rect6666-0-6-4)">
 </tspan></tspan><tspan
          x="1052.8809"
-         y="99.303165"><tspan
-           style="font-weight:bold">Reproducibility</tspan><tspan
-           style="font-weight:normal">: Trust and verify outcomes by </tspan></tspan><tspan
+         y="90.850833"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold';shape-inside:url(#rect6666-0-6-4)">
+</tspan></tspan><tspan
          x="1052.8809"
-         y="109.00455"><tspan
-           style="font-weight:normal">(re-)computing them on different systems.</tspan><tspan
-           style="font-weight:bold"> </tspan></tspan></text>
+         y="100.86448"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Quicksand;-inkscape-font-specification:'Quicksand Bold';shape-inside:url(#rect6666-0-6-4)">Reproducibility: </tspan><tspan
+           style="font-weight:normal">Trust and verify outcomes by </tspan></tspan><tspan
+         x="1052.8809"
+         y="110.87813"><tspan
+           style="font-weight:normal">(re-)computing them on different systems. </tspan></tspan></text>
     <g
        id="g6568-6"
        transform="matrix(-0.46043562,0,0,0.46043562,1504.3775,351.20501)">
@@ -6345,7 +6342,7 @@
        style="font-style:normal;font-weight:normal;font-size:4.58611px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect7640);fill:#000000;fill-opacity:1;stroke:none"
        x="-431.09323"
        y="0"
-       transform="translate(-346.00936,3.28813)"><tspan
+       transform="translate(-349.71355,20.750637)"><tspan
          x="364.06445"
          y="784.8211"><tspan
            style="font-weight:bold;font-size:8.46667px;text-align:start;text-anchor:start">References:</tspan><tspan
@@ -6376,13 +6373,6 @@
          x="364.06445"
          y="820.63435"><tspan
            style="text-align:start;text-anchor:start">
-</tspan></tspan><tspan
-         x="364.06445"
-         y="826.36702"><tspan
-           style="text-align:start;text-anchor:start">Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., &amp; Teal, T. K. (2017). Good enough practices in scientific computing. PLOS Computational Biology, 13(6), e1005510. </tspan></tspan><tspan
-         x="364.06445"
-         y="832.09969"><tspan
-           style="text-align:start;text-anchor:start">https://doi.org/10.1371/journal.pcbi.1005510
 </tspan></tspan></text>
     <text
        xml:space="preserve"
@@ -6397,41 +6387,37 @@
        transform="translate(178.91413,-148.9983)"><tspan
          x="497.11633"
          y="208.92746"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">All elements involved in the generation of research outputs - from </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">All elements involved in the generation of research outputs - from raw or </tspan></tspan><tspan
          x="497.11633"
-         y="218.62885"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">raw or </tspan><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">derived data to software - evolve. Changes in these </tspan></tspan><tspan
+         y="218.94111"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">derived data to software - evolve. Changes in these building blocks </tspan></tspan><tspan
          x="497.11633"
-         y="228.33023"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">building blocks influence </tspan><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">the resulting research output</tspan><tspan
-           style="font-size:65%;baseline-shift:super">4</tspan><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">.
+         y="228.95477"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">influence the resulting research output</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65%;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';baseline-shift:super">4</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">.
 </tspan></tspan><tspan
          x="497.11633"
-         y="238.03162"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">
+         y="238.96842"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">
 </tspan></tspan><tspan
          x="497.11633"
-         y="247.733"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">Identifying precise inputs of a research output is a prerequisite for </tspan></tspan><tspan
+         y="248.98208"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">Identifying precise inputs of a research output is a prerequisite for </tspan></tspan><tspan
          x="497.11633"
-         y="257.43439"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">retracing, </tspan><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">trusting, and reproducing its genesis, and is possible </tspan></tspan><tspan
+         y="258.99574"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">retracing, trusting, and reproducing its genesis, and is possible when </tspan></tspan><tspan
          x="497.11633"
-         y="267.13578"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">when version control </tspan><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">systems unambigously track digital files.
+         y="269.00938"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">version control systems unambigously track digital files.
 </tspan></tspan><tspan
          x="497.11633"
-         y="276.83716"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">
+         y="279.02302"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">
 </tspan></tspan><tspan
          x="497.11633"
-         y="286.53855"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">
+         y="289.03666"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">
 </tspan></tspan></text>
     <text
        xml:space="preserve"
@@ -6442,55 +6428,55 @@
        transform="translate(178.23518,51.399926)"><tspan
          x="497.11633"
          y="208.92746"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">The details of how code, software, or data have been used to </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">The details of how code, software, or data have been used to generate </tspan></tspan><tspan
          x="497.11633"
-         y="218.62885"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">generate research outputs (process provenance) are volatile, but </tspan></tspan><tspan
+         y="218.94111"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">research outputs (process provenance) are volatile, but often required to </tspan></tspan><tspan
          x="497.11633"
-         y="228.33023"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">often required to achieve reproducibility</tspan><tspan
-           style="font-size:65%;baseline-shift:super">5</tspan><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">.
+         y="228.95477"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">achieve reproducibility</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:65%;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';baseline-shift:super">5</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">.
 </tspan></tspan><tspan
          x="497.11633"
-         y="238.03162"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">
+         y="238.96842"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">
 </tspan></tspan><tspan
          x="497.11633"
-         y="247.733"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">Capturing this information at the 
+         y="248.98208"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">Capturing this information at the 
 </tspan></tspan><tspan
          x="497.11633"
-         y="257.43439"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">time of its creation, by its expert
+         y="258.99574"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">time of its creation, by its expert
 </tspan></tspan><tspan
          x="497.11633"
-         y="267.13578"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583"> creators, or basing subsequent 
+         y="269.00938"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">creators, or basing subsequent 
 </tspan></tspan><tspan
          x="497.11633"
-         y="276.83716"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">processing on it, improves meta-
+         y="279.02302"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">processing on it, improves meta-
 </tspan></tspan><tspan
          x="497.11633"
-         y="286.53855"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">data quality and validity even if 
+         y="289.03666"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">data quality and validity even if 
 </tspan></tspan><tspan
          x="497.11633"
-         y="296.23993"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">it does not comply to community 
+         y="299.0503"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">it does not comply to community 
 </tspan></tspan><tspan
          x="497.11633"
-         y="305.94132"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">standards. Ideally, it is simply 
+         y="309.06394"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">standards. Ideally, it is simply 
 </tspan></tspan><tspan
          x="497.11633"
-         y="315.6427"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">structured, machine readable, 
+         y="319.07759"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">structured, machine readable, 
 </tspan></tspan><tspan
          x="497.11633"
-         y="325.34409"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">and validated by use.</tspan></tspan></text>
+         y="329.09123"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">and validated by use.</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:164.07;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -6500,39 +6486,33 @@
        transform="translate(217.80845,269.48577)"><tspan
          x="545.32013"
          y="208.92746"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">Structuring projects into modular units </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">Structuring projects into modular units that </tspan></tspan><tspan
          x="545.32013"
-         y="218.62885"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">that constitute unambiguous multi-use </tspan></tspan><tspan
+         y="218.94111"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">constitute unambiguous multi-use </tspan></tspan><tspan
          x="545.32013"
-         y="228.33023"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">components (such as raw data, processed </tspan></tspan><tspan
+         y="228.95477"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">components (such as raw data, processed </tspan></tspan><tspan
          x="545.32013"
-         y="238.03162"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">data, or software) improves the </tspan></tspan><tspan
+         y="238.96842"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">data, or software) improves the transparency </tspan></tspan><tspan
          x="545.32013"
-         y="247.733"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">transparency of a project, &amp; allow </tspan></tspan><tspan
+         y="248.98208"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">of a project, &amp; allow individual modules to be </tspan></tspan><tspan
          x="545.32013"
-         y="257.43439"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">individual modules to be recombined and </tspan></tspan><tspan
-         x="545.32013"
-         y="267.13578"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">reused easily.
+         y="258.99574"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">recombined and reused easily.
 </tspan></tspan><tspan
          x="545.32013"
-         y="276.83716"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">
+         y="269.00938"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">
 </tspan></tspan><tspan
          x="545.32013"
-         y="286.53855"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">Once you have individual modules, you </tspan></tspan><tspan
+         y="279.02302"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">Once you have individual modules, you can </tspan></tspan><tspan
          x="545.32013"
-         y="296.23993"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">can declare and link them as </tspan></tspan><tspan
-         x="545.32013"
-         y="305.94132"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">dependencies.</tspan></tspan></text>
+         y="289.03666"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">declare and link them as dependencies.</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;white-space:pre;inline-size:258.196;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -6542,25 +6522,20 @@
        transform="translate(176.39997,479.51229)"><tspan
          x="497.11633"
          y="208.92746"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">When your project is portable, it can move between users or </tspan></tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">When your project is portable, it can move between users or </tspan></tspan><tspan
          x="497.11633"
-         y="218.62885"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">infrastructures and run successfully without adjustments. This </tspan></tspan><tspan
+         y="218.94111"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">infrastructures and run successfully without adjustments. This requires </tspan></tspan><tspan
          x="497.11633"
-         y="228.33023"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">requires </tspan><tspan
-           style="font-style:italic">completeness</tspan><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583"> (make every required element a part of </tspan></tspan><tspan
+         y="228.95477"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">completeness (make every required element a part of your project, do </tspan></tspan><tspan
          x="497.11633"
-         y="238.03162"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">your project, do not rely on files outside of it), documentation, </tspan></tspan><tspan
-         x="497.11633"
-         y="247.733"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">and automation.
+         y="238.96842"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">not rely on files outside of it), documentation, and automation.
 </tspan></tspan><tspan
          x="497.11633"
-         y="257.43439"><tspan
-           style="font-size:7.76111px;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">
+         y="248.98208"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.76111px;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.264583">
 </tspan></tspan></text>
     <text
        xml:space="preserve"
