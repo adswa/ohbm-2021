@@ -18,6 +18,12 @@
   <defs
      id="defs2">
     <rect
+       x="20.935458"
+       y="146.76248"
+       width="636.8432"
+       height="44.534873"
+       id="rect13666" />
+    <rect
        x="36.725744"
        y="422.69149"
        width="49.774434"
@@ -634,10 +640,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.51445126"
-     inkscape:cx="965.95709"
-     inkscape:cy="2410.7553"
+     inkscape:cx="1728.6422"
+     inkscape:cy="179.87934"
      inkscape:document-units="mm"
-     inkscape:current-layer="g7188-7-7"
+     inkscape:current-layer="layer3"
      inkscape:document-rotation="0"
      showgrid="false"
      units="cm"
@@ -1152,7 +1158,12 @@
          transform="translate(-6.879167)"><tspan
            x="24.701172"
            y="136.96309"><tspan
-             style="font-size:12.7px;text-align:start;text-anchor:start;fill:#ffffff">Adina S Wagner, J.-B. Poline, Michael Hanke</tspan></tspan></text>
+             style="font-size:12.7px;text-align:start;text-anchor:start;fill:#ffffff">Adina S Wagner</tspan><tspan
+             style="font-size:65%;baseline-shift:super">1</tspan><tspan
+             style="font-size:12.7px;text-align:start;text-anchor:start;fill:#ffffff">, J.-B. Poline</tspan><tspan
+             style="font-size:65%;baseline-shift:super">3</tspan><tspan
+             style="font-size:12.7px;text-align:start;text-anchor:start;fill:#ffffff">, Michael Hanke</tspan><tspan
+             style="font-size:65%;baseline-shift:super">1,2</tspan></tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -1173,6 +1184,69 @@
        xml:space="preserve"
        id="text12722"
        style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:9.87777778px;line-height:1.25;letter-spacing:0px;word-spacing:0px;text-align:center;white-space:pre;shape-inside:url(#rect12724)" />
+    <text
+       xml:space="preserve"
+       id="text13664"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect13666);fill:#ffffff;fill-opacity:1;stroke:none"
+       x="-201.51779"
+       y="0"
+       transform="translate(-2.1166667,-9.5250005)"><tspan
+         x="20.935547"
+         y="152.37998"><tspan
+           style="shape-inside:url(#rect13666)">
+</tspan></tspan><tspan
+         x="20.935547"
+         y="160.31748"><tspan
+           style="font-size:65%;baseline-shift:super">1</tspan><tspan
+           style="shape-inside:url(#rect13666)"> Institute of Neuroscience and Medicine, Brain &amp; Behaviour INM-7, Research Centre Jülich, Germany
+</tspan></tspan><tspan
+         x="20.935547"
+         y="168.25498"><tspan
+           style="font-size:65%;baseline-shift:super">2 </tspan><tspan
+           style="shape-inside:url(#rect13666)">Institute of Systems Neuroscience,  Medical Faculty, Heinrich Heine University Düsseldorf, Germany
+</tspan></tspan><tspan
+         x="20.935547"
+         y="176.19248"><tspan
+           style="font-size:65%;baseline-shift:super">3 </tspan><tspan
+           style="shape-inside:url(#rect13666)">NeuroDataScience - ORIGAMI laboratory, McConnell Brain Imaging Centre, The Neuro (Montreal Neurological Institute-Hospital), Faculty of Medicine and Health Sciences, McGill University, Montreal, </tspan></tspan><tspan
+         x="20.935547"
+         y="184.12998"><tspan
+           style="shape-inside:url(#rect13666)">Quebec, Canada, and Helen Wills Neuroscience, University of California Berkeley, USAl
+</tspan></tspan><tspan
+         x="20.935547"
+         y="192.06748"><tspan
+           style="shape-inside:url(#rect13666)">
+</tspan></tspan><tspan
+         style="visibility:hidden"
+         x="20.935547"
+         y="196.91514"><tspan
+           style="shape-inside:url(#rect13666)">
+</tspan></tspan><tspan
+         style="visibility:hidden"
+         x="20.935547"
+         y="204.85264"><tspan
+           style="shape-inside:url(#rect13666)">
+</tspan></tspan><tspan
+         style="visibility:hidden"
+         x="20.935547"
+         y="212.79014"><tspan
+           style="shape-inside:url(#rect13666)">
+</tspan></tspan><tspan
+         style="visibility:hidden"
+         x="20.935547"
+         y="220.72764"><tspan
+           style="shape-inside:url(#rect13666)">
+</tspan></tspan><tspan
+         style="visibility:hidden"
+         x="20.935547"
+         y="228.66514"><tspan
+           style="shape-inside:url(#rect13666)">
+</tspan></tspan><tspan
+         style="visibility:hidden"
+         x="20.935547"
+         y="236.60264"><tspan
+           dx="0 2.0184815 2.0184815 2.0184817 2.0184813 2.0184813 2.0184822 2.0184813 2.0184813 3.4912605 3.8850327 2.554884 2.4851189 3.8369751 3.3083267 4.0307617 3.8850327 4.024559 4.0307617 1.7642365 4.024559 4.0307617 2.0184822 3.8912315 4.0245667 2.489769 4.024559 3.8850327 2.5548859 2.0835953 2.0184784 3.8912354 4.0307617 1.7642365 4.024559 3.8912354 2.0184784 5.1934814 3.8912354 4.0307617 4.024559 3.9067383 2.6107025 6.3499908 2.2355194 3.3331299 2.2913361 1.7642365 4.0245667 3.9067383 1.7642212 1.7642365 3.4912567 4.0245667 2.0184784 4.0307617"
+           style="shape-inside:url(#rect13666)">        corresponding author: adina.wagner@fz-juelich.de</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
